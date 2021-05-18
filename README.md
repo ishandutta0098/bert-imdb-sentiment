@@ -8,4 +8,6 @@ This is a dataset for binary sentiment classification containing substantially m
 For more dataset information, please go through the following [link](http://ai.stanford.edu/~amaas/data/sentiment/)
 
 ## References
-[Training Sentiment Model Using BERT and Serving it with Flask API](https://www.youtube.com/watch?v=hinZO--TEk4)
+- [Training Sentiment Model Using BERT and Serving it with Flask API](https://www.youtube.com/watch?v=hinZO--TEk4)
+- [HuggingFace Transformers Tokenizer](https://huggingface.co/transformers/v2.11.0/main_classes/tokenizer.html)
+- [HuggingFace Transformers Glossary](https://huggingface.co/transformers/glossary.html)
